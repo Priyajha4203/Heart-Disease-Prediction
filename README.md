@@ -7,6 +7,8 @@ There are two classes:
    -> Heart Disease Present(target=1)
    -> Heart Disease not present(target=0)
 
+   
+
 **Data Description :**
 
 • age: Age in years
@@ -30,8 +32,13 @@ There are two classes:
 • thalach: Maximum heart rate achieved
 
 • exang: Exercise induced angina (1 = yes; 0 = no)
+
 • oldpeak: ST depression induced by exercise relative to rest
+
 • slope: The slope of the peak exercise ST segment
+
 • ca: Number of major vessels (0-3) colored by fluoroscopy
+
 • thal: 3 = normal; 6 = fixed defect; 7 = reversible defect
+
 • target: 1 = Heart disease present, 0 = Heart disease not present
