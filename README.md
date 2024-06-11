@@ -16,9 +16,13 @@ There are two classes:
 • sex: 1 = male, 0 = female
 
 • cp: Chest pain type
+
       • Value 1: typical angina
+      
       • Value 2: atypical angina
+      
       • Value 3: non-anginal pain
+      
       • Value 4: asymptomatic
       
 • trestbps: Resting blood pressure (in mm Hg on admission to the hospital)
